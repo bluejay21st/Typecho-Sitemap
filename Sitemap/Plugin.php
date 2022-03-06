@@ -4,7 +4,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * Sitemap.xml 生成器
  * 
  * @package Sitemap
- * @author 寒冬日志
+ * @author BlueJay
  * @version 1.0.0
  * @link https://www.cwlog.net/
  *
