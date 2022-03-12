@@ -9,7 +9,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @link https://www.cwlog.net/
  *
  */
-class Sitemap_Plugin implements Typecho_Plugin_Interface
+class Sitemap_Plugin extends Typecho_Widget implements Typecho_Plugin_Interface
 {
     /**
      * 激活插件方法,如果激活失败,直接抛出异常
