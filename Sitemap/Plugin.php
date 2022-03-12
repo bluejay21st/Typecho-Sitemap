@@ -131,5 +131,4 @@ class Sitemap_Plugin extends Typecho_Widget implements Typecho_Plugin_Interface
         }
         echo '</urlset>';
     }
-
 }
