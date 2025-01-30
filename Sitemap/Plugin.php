@@ -4,9 +4,9 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * Sitemap.xml 生成器
  * 
  * @package Sitemap
- * @author BlueJay
+ * @author 观澜
  * @version 1.0.0
- * @link https://www.cwlog.net/
+ * @link https://coldwinter.top/
  *
  */
 class Sitemap_Plugin extends Typecho_Widget implements Typecho_Plugin_Interface
